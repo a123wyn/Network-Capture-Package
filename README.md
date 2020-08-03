@@ -17,3 +17,11 @@
 
 ## 使用
 直接使用MySniffer.exe即可，使用的是exe4j将jar包打包为exe文件
+
+## 运行
+
+![image1](https://github.com/a123wyn/Network-Capture-Package/blob/master/images/%E5%9B%BE%E7%89%871.png)
+
+![image2](https://github.com/a123wyn/Network-Capture-Package/blob/master/images/%E5%9B%BE%E7%89%872.png)
+
+![image3](https://github.com/a123wyn/Network-Capture-Package/blob/master/images/%E5%9B%BE%E7%89%873.png)
